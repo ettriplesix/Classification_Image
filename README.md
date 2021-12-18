@@ -1,2 +1,2 @@
 # Classification_Image
-Open File on Jupyter Notebook
+Open File .ipynb on Jupyter Notebook
